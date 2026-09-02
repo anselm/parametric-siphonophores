@@ -1,0 +1,7 @@
+name = "siphonophores"
+horizon = "2026"
+repo = "anselm/parametric-siphonophores"
+code = "local"
+deploy = "exe:siphon"
+autodeploy = true
+notes = ""
