@@ -8,7 +8,7 @@
 # previous oneshot run finishes (OnUnitInactiveSec).
 set -euo pipefail
 
-REPO_URL="https://github.com/orbitalfoundation/siphonophores.git"
+REPO_URL="https://github.com/anselm/parametric-siphonophores.git"
 BRANCH="main"
 BASE="/srv/autodeploy"
 REPO="$BASE/repo"
